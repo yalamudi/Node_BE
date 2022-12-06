@@ -1,53 +1,44 @@
-[
+ {
+"data" : [
   {
     "id":1,
-    "universityname":"Princeton University",
-    "Establishedyear": 1746,
-    "universityrank": 1,
-    "state": "New Jersey",
-    "city": "Princeton",
-    "zip": 08544,
-    "typeofuniversity": "Private University"
-
+    "company_name":"Google",
+    "company_startyear": 1998,
+    "company_rank": 1,
+    "company_location": "Mountain View",
+    "company_ceo": "Sundar pichai"
   },
   {
     "id":2,
-    "universityname":"Massachusetts Institute of Technology",
-    "Establishedyear": 1861,
-    "universityrank": 2,
-    "state": "Massachusetts",
-    "city": "Cambridge",
-    "zip": 02139,
-    "typeofuniversity": "Private University"
+    "company_name":"Microsoft",
+    "company_startyear": 1975,
+    "company_rank": 2,
+    "company_location": "Albuqerque",
+    "company_ceo": "Satya Nadela"
   },
   {
     "id":3,
-    "universityname":"Harvard University",
-    "Establishedyear": 1636,
-    "universityrank": 3,
-    "state": "Massachusetts",
-    "city": "Cambridge",
-    "zip": 02138,
-    "typeofuniversity": "Private University"
+    "company_name":"Meta",
+    "company_startyear": 2004,
+    "company_rank": 3,
+    "company_location": "Cambridge",
+    "company_ceo": "Mark Zuckerberg"
   },
   {
     "id":4,
-    "universityname":"Stanford University",
-    "Establishedyear": 1885,
-    "universityrank": 4,
-    "state": "California",
-    "city": "Stanford",
-    "zip": 94305,
-    "typeofuniversity": "Private University"
+    "company_name":"Apple",
+    "company_startyear": 1976,
+    "company_rank": 4,
+    "company_location": "Los Altos",
+    "company_ceo": "Tim Cook"
   },
   {
     "id":5,
-    "universityname":"Yale University",
-    "Establishedyear": 1701,
-    "universityrank": 5,
-    "state": "Connecticut",
-    "city": "New Haven",
-    "zip": 94305,
-    "typeofuniversity": "Private University"
+    "company_name":"Amazon",
+    "company_startyear": 1994,
+    "company_rank": 5,
+    "company_location": "Bellevue",
+    "company_ceo": "Andy Jassy"
   }
 ]
+ } 
