@@ -1,0 +1,53 @@
+[
+  {
+    "id":1,
+    "universityname":"Princeton University",
+    "Establishedyear": 1746,
+    "universityrank": 1,
+    "state": "New Jersey",
+    "city": "Princeton",
+    "zip": 08544,
+    "typeofuniversity": "Private University"
+
+  },
+  {
+    "id":2,
+    "universityname":"Massachusetts Institute of Technology",
+    "Establishedyear": 1861,
+    "universityrank": 2,
+    "state": "Massachusetts",
+    "city": "Cambridge",
+    "zip": 02139,
+    "typeofuniversity": "Private University"
+  },
+  {
+    "id":3,
+    "universityname":"Harvard University",
+    "Establishedyear": 1636,
+    "universityrank": 3,
+    "state": "Massachusetts",
+    "city": "Cambridge",
+    "zip": 02138,
+    "typeofuniversity": "Private University"
+  },
+  {
+    "id":4,
+    "universityname":"Stanford University",
+    "Establishedyear": 1885,
+    "universityrank": 4,
+    "state": "California",
+    "city": "Stanford",
+    "zip": 94305,
+    "typeofuniversity": "Private University"
+  },
+  {
+    "id":5,
+    "universityname":"Yale University",
+    "Establishedyear": 1701,
+    "universityrank": 5,
+    "state": "Connecticut",
+    "city": "New Haven",
+    "zip": 94305,
+    "typeofuniversity": "Private University"
+  }
+]
